@@ -42,5 +42,5 @@ El desarrollo del proyecto se gestionó mediante GitHub, utilizando control de v
 | 2   | Moisés Emanuel Cabrera Noriega           |
 | 3   | Oscar David Garcia Larios                |
 | 4   | Pablo Matias                            |
-| 5   | Andrea Alejandra Lopez Gimenes           |
+| 5   | Andrea Alejandra Lopez Jimenez           |
 | 6   | Jonathan Eduardo Jolon Garcia            |
