@@ -24,7 +24,7 @@ Este diseño permite mantener a las FPU constantemente alimentadas y optimizar e
 ### Análisis Cuantitativo
 
 El diseño se basa en maximizar el rendimiento (throughput), reduciendo tiempos de acceso a memoria y mejorando la eficiencia del procesamiento.
-Se prioriza el balance entre latencia, ancho de banda y paralelismo, siguiendo principios de arquitecturas modernas HPC.
+Se prioriza el balance entre latencia, ancho de banda y paralelismo.
 
 ---
 
@@ -33,3 +33,14 @@ Se prioriza el balance entre latencia, ancho de banda y paralelismo, siguiendo p
 El desarrollo del proyecto se gestionó mediante GitHub, utilizando control de versiones para organizar el trabajo en equipo, mantener historial de cambios y facilitar la integración de los distintos componentes del diseño.
 
 ---
+
+## Integrantes del grupo
+
+| No. | Nombre                             | Carnet |
+| --- | ---------------------------------- | ------ |
+| 1   | Kennet Anderson Santisteban Torres |        |
+| 2   | Moisés Emanuel Cabrera Noriega     |        |
+| 3   | Oscar David Garcia Larios          |        |
+| 4   | Pablo Matias                       |        |
+| 5   | Andrea Alejandra Lopez Gimenes     |        |
+| 6   | Jonathan Eduardo Jolon Garcia      |        |
