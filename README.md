@@ -28,10 +28,19 @@ Se prioriza el balance entre latencia, ancho de banda y paralelismo.
 
 ---
 
-### Colaboración en GitHub
+## 🤝 Colaboración en GitHub
 
-El desarrollo del proyecto se gestionó mediante GitHub, utilizando control de versiones para organizar el trabajo en equipo, mantener historial de cambios y facilitar la integración de los distintos componentes del diseño.
+El desarrollo del proyecto se gestionó mediante GitHub, utilizando control de versiones para organizar el trabajo en equipo, mantener un historial detallado de cambios y facilitar la integración de los distintos componentes del diseño.
 
+
+El uso de commits descriptivos permitió llevar un control claro de las modificaciones realizadas, facilitando la trazabilidad y la identificación de cambios específicos en el desarrollo del proyecto.
+
+Además, GitHub permitió:
+- Centralizar la documentación 
+- Evitar conflictos mediante la actualización constante del repositorio 
+- Mantener versiones estables del proyecto
+
+En conjunto, estas prácticas aseguraron un flujo de trabajo eficiente, organizado y alineado con metodologías modernas de desarrollo colaborativo.
 ---
 
 ## 👥 Integrantes del grupo
