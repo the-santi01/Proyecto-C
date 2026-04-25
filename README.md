@@ -46,7 +46,7 @@ Además, GitHub permitió:
 En conjunto, estas prácticas aseguraron un flujo de trabajo eficiente, organizado y alineado con metodologías modernas de desarrollo colaborativo.
 ---
 
-## 👥 Integrantes del grupo
+## Integrantes del grupo
 
 | No. | Nombre                                   |
 |-----|------------------------------------------|
